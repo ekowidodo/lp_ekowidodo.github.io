@@ -1,0 +1,7 @@
+Tidak jelas sejak kapan kebiasaan penambahan berkas ini dimulai, namun ada beberapa contoh yang berasal dari pertengahan tahun 1970-an.[2][3]
+
+Secara khusus, ada sejarah panjang tentang perangkat lunak bebas dan perangkat lunak sumber terbuka yang memasukkan berkas README ke dalam sebuah proyek; sebenarnya itu adalah persyaratan dalam Standar Koding GNU.[4]
+
+Sejak kemunculan web sebagai platform standar untuk distribusi perangkat lunak, banyak paket-paket perangkat lunak telah memindahkan (atau kadang-kadang menyalin) beberapa berkas tambahan dan potongan informasi ke situs web atau wiki, terkadang termasuk README itu sendiri, atau terkadang hanya meninggalkan berkas README singkat tanpa semua informasi yang dibutuhkan oleh pengguna baru perangkat lunak.
+
+Baru-baru ini, penyedia layanan populer repositori Git milik GitHub[5] sangat menganjurkan menambahkan berkas README. Jika berkas tersebut berada di bagian direktori utama, maka berkas README tersebut akan ditampilkan secara otomatis di halaman web utama. Sementara jenis teks biasa, berbagai berkas dengan ekstensi dan format yang berbeda juga telah didukung,[6] dan dikonversi ke HTML.
